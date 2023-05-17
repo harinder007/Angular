@@ -9,6 +9,7 @@ var Employee = /** @class */ (function () {
     };
     return Employee;
 }());
+
 var emp1 = new Employee();
 emp1.setName('Harinder');
 emp1.empId = 567;
